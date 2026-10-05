@@ -9,7 +9,7 @@ if not cap.isOpened():
     print("camera failed to open")
     exit()
 
-print("model çalışıyor kapatmak için q tuşuna bas")
+print("model is working, press q to exit")
 
 while True:
 
